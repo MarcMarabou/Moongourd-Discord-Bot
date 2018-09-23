@@ -1,0 +1,9 @@
+{
+    "token": "NDE5NDQwMDY4ODUyMTg3MTM2.DXwJlA.WAdUBczuHWwD8b-ygk9IYEq0C4U",
+    "prefix": "mg.",
+    "botName": "Elitist Bot",
+    "useWhitelist": false,
+    "whitelist": ["246339834233356290", "380783567170437131", "414835997063512067", "422787367385169920", "383694399068045343", "423281699846094849", "256570934117400577", "436297406120722432", "190845591931191296", "447715187198525451"],
+    "superusers": ["264424941447806977"],
+    "activity": "In development, out of order"
+}
