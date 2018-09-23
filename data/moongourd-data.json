@@ -1,0 +1,392 @@
+{
+    "CLASS_ALIASES": {
+        "Archer": [
+            "archer",
+            "arch"
+        ],
+        "Berserker": [
+            "zerk",
+            "bers",
+            "berserker"
+        ],
+        "Brawler": [
+            "brawler",
+            "brawl",
+            "braw"
+        ],
+        "Gunner": [
+            "gunner",
+            "gun"
+        ],
+        "Lancer": [
+            "lancer"
+        ],
+        "Mystic": [
+            "mystic",
+            "myst"
+        ],
+        "Ninja": [
+            "ninja"
+        ],
+        "Priest": [
+            "priest",
+            "pri",
+            "not_mystic"
+        ],
+        "Reaper": [
+            "reaper",
+            "reap"
+        ],
+        "Valkyrie": [
+            "valkyrie",
+            "valk"
+        ],
+        "Sorcerer": [
+            "sorcerer",
+            "sorc"
+        ],
+        "Slayer": [
+            "slayer"
+        ],
+        "Warrior": [
+            "warrior",
+            "warr",
+            "war"
+        ],
+        "All Classes": [
+            "dps",
+            "top",
+            "all"
+        ]
+    },
+    "MOONGOURD_AREA": {
+        "hh": [
+            950,
+            {
+                "id": 1000,
+                "string": "Vergos (Phase 2)"
+            },
+            {
+                "id": 3000,
+                "string": "Vergos (Phase 3)"
+            },
+            {
+                "id": 4000,
+                "string": "Vergos (Phase 4)"
+            }
+        ],
+        "ds": [
+            434,
+            {
+                "id": 1000,
+                "string": "Akasha's Shade"
+            },
+            {
+                "id": 2000,
+                "string": "Kaprima's Shade"
+            },
+            {
+                "id": 3000,
+                "string": "Dakuryon's Shade"
+            },
+            {
+                "id": 4000,
+                "string": "Meldita's Shade"
+            },
+            {
+                "id": 5000,
+                "string": "Kelsaik's Shade"
+            },
+            {
+                "id": 6000,
+                "string": "Krakatox's Shade"
+            },
+            {
+                "id": 7000,
+                "string": "Lakan's Shade"
+            },
+            {
+                "id": 8000,
+                "string": "Desolarus's Shade"
+            },
+            {
+                "id": 9000,
+                "string": "Darkans's Shade"
+            },
+            {
+                "id": 10000,
+                "string": "Shandra Manaya's Shade"
+            }
+        ],
+        "trnm": [
+            794,
+            {
+                "id": 1000,
+                "string": "Birchback"
+            },
+            {
+                "id": 2000,
+                "string": "Lehnym"
+            },
+            {
+                "id": 3000,
+                "string": "Gaaruksalk"
+            }
+        ],
+        "trhm": [
+            994,
+            {
+                "id": 1000,
+                "string": "Nightmare Birchback"
+            },
+            {
+                "id": 2000,
+                "string": "Nightmare Lehnym"
+            },
+            {
+                "id": 3000,
+                "string": "Nightmare Gaaruksalk"
+            }
+        ],
+        "rknm": [
+            735,
+            {
+                "id": 1000,
+                "string": "Ventarun"
+            },
+            {
+                "id": 2000,
+                "string": "Hexapleon"
+            },
+            {
+                "id": 3000,
+                "string": "RK-9"
+            }
+        ],
+        "rkhm": [
+            935,
+            {
+                "id": 1000,
+                "string": "Nightmare Ventarun"
+            },
+            {
+                "id": 2000,
+                "string": "Nightmare Hexapleon"
+            },
+            {
+                "id": 3000,
+                "string": "Nightmare RK-9"
+            }
+        ],
+        "rkem": [
+            935,
+            {
+                "id": 1000,
+                "string": "Nightmare Ventarun"
+            },
+            {
+                "id": 2000,
+                "string": "Nightmare Hexapleon"
+            },
+            {
+                "id": 4000,
+                "string": "Nightmare RK-9 (EM)"
+            }
+        ],
+        "rmnm": [
+            770,
+            {
+                "id": 3001,
+                "string": "Lachelith"
+            },
+            {
+                "id": 3001,
+                "string": "Lachelith"
+            },
+            {
+                "id": 3001,
+                "string": "Lachelith"
+            }
+        ],
+        "rmhm": [
+            970,
+            {
+                "id": 1001,
+                "string": "Nightmare Res\"d Atrocitas"
+            },
+            {
+                "id": 2001,
+                "string": "Nightmare Res\"d Malgarios"
+            },
+            {
+                "id": 3001,
+                "string": "Nightmare Lachelith"
+            }
+        ],
+        "rrnm": [
+            739,
+            {
+                "id": 1000,
+                "string": "Kalavese"
+            },
+            {
+                "id": 2000,
+                "string": "Thorentum"
+            },
+            {
+                "id": 3001,
+                "string": "Argog"
+            }
+        ],
+        "rrhm": [
+            939,
+            {
+                "id": 1000,
+                "string": "Nightmare Kalavese"
+            },
+            {
+                "id": 1000,
+                "string": "Nightmare Thorentum"
+            },
+            {
+                "id": 3001,
+                "string": "Nightmare Argog"
+            }
+        ],
+        "aahm": [
+            920,
+            {
+                "id": 1000,
+                "string": "Nightmare Ghergof"
+            },
+            {
+                "id": 1000,
+                "string": "Nightmare Kalioth"
+            },
+            {
+                "id": 3000,
+                "string": "Nightmare Antaroth"
+            }
+        ],
+        "aanm": [
+            720,
+            {
+                "id": 1000,
+                "string": "Ghergof"
+            },
+            {
+                "id": 1000,
+                "string": "Kalioth"
+            },
+            {
+                "id": 3000,
+                "string": "Antaroth"
+            }
+        ],
+        "bp": [
+            710,
+            {
+                "id": 3001,
+                "string": "Balbatos"
+            },
+            {
+                "id": 3001,
+                "string": "Balbatos"
+            },
+            {
+                "id": 3001,
+                "string": "Balbatos"
+            }
+        ],
+        "lkhm": [
+            969,
+            {
+                "id": 86903,
+                "string": "Nightmare Lilith"
+            },
+            {
+                "id": 86903,
+                "string": "Nightmare Lilith"
+            },
+            {
+                "id": 86903,
+                "string": "Nightmare Lilith"
+            }
+        ],
+        "scnm": [
+            716,
+            {
+                "id": 1000,
+                "string": "Darkan"
+            },
+            {
+                "id": 1000,
+                "string": "Darkan"
+            },
+            {
+                "id": 1000,
+                "string": "Darkan"
+            }
+        ],
+        "kc": [
+            860,
+            {
+                "id": 3000,
+                "string": "Wretched Kalivan"
+            },
+            {
+                "id": 3000,
+                "string": "Wretched Kalivan"
+            },
+            {
+                "id": 3000,
+                "string": "Wretched Kalivan"
+            }
+        ],
+        "rg": [
+            455,
+            {
+                "id": 300,
+                "string": "Nimistrix"
+            },
+            {
+                "id": 300,
+                "string": "Nimistrix"
+            },
+            {
+                "id": 300,
+                "string": "Nimistrix"
+            }
+        ],
+        "sf": [
+            766,
+            {
+                "id": 76619,
+                "string": "Barbosa"
+            },
+            {
+                "id": 76619,
+                "string": "Barbosa"
+            },
+            {
+                "id": 76619,
+                "string": "Barbosa"
+            }
+        ],
+        "kd": [
+            760,
+            {
+                "id": 3000,
+                "string": "Kalivan"
+            },
+            {
+                "id": 3000,
+                "string": "Kalivan"
+            },
+            {
+                "id": 3000,
+                "string": "Kalivan"
+            }
+        ]
+    }
+}

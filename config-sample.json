@@ -1,0 +1,9 @@
+{
+    "token": "Discord Bot Token",
+    "prefix": "command prefix",
+    "botName": "Disgourd",
+    "useWhitelist": false,
+    "whitelist": ["array of server id's if you wish for bot to autoleave others' server"],
+    "superusers": ["array of people with admin privileges"],
+    "activity": "Bot account activity goes here"
+}
