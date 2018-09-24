@@ -19,14 +19,16 @@
             "gun"
         ],
         "Lancer": [
-            "lancer"
+            "lancer",
+            "lanc"
         ],
         "Mystic": [
             "mystic",
             "myst"
         ],
         "Ninja": [
-            "ninja"
+            "ninja",
+            "ninj"
         ],
         "Priest": [
             "priest",
@@ -296,6 +298,21 @@
             {
                 "id": 3001,
                 "string": "Balbatos"
+            }
+        ],
+        "lknm":[
+            769,
+            {
+                "id": 86903,
+                "string": "Lilith"
+            },
+            {
+                "id": 86903,
+                "string": "Lilith"
+            },
+            {
+                "id": 86903,
+                "string": "Lilith"
             }
         ],
         "lkhm": [
